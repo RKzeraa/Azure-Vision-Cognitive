@@ -33,13 +33,13 @@ Este guia fornece instruções sobre como configurar e usar o serviço Azure AI 
 Além do **Detetar rostos no Vision Studio**, também utilizei o **Ler texto no Vision Studio**, e o**Analisar imagens no Vision Studio**.
 
 #### Detetar rostos no Vision Studio
-[img]
+<img title="Face Detect" alt="Face detect" src="Imagens/deteccao_rostos.png">
 
 #### Ler texto no Vision Studio
-[img]
+<img title="Extract Text" alt="Extract Text in img" src="Imagens/extrair_texto_img.png">
 
 #### Analisar imagens no Vision Studio
-[img]
+<img title="Description Img" alt="Description img" src="Imagens/descricao_img.png">
 
 
 ### Limpeza
