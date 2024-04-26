@@ -44,9 +44,9 @@ Além do **Detetar rostos no Vision Studio**, também utilizei o **Ler texto no 
 
 ### Limpeza
 
-Para evitar custos desnecessários, siga as instruções para excluir o serviço web e o espaço de trabalho do Azure Machine Learning após concluir suas atividades. Certifique-se de salvar quaisquer dados ou resultados importantes antes de prosseguir com a exclusão.
+Se não pretende fazer mais exercícios, exclua todos os recursos que não precisa mais. Isso evita acumular custos desnecessários.
 
-- Exclua o serviço web na guia "Endpoints" do Azure Machine Learning Studio.
-- Para excluir o espaço de trabalho, acesse o portal Azure, vá para a página Grupos de Recursos, abra o grupo de recursos do seu espaço de trabalho e selecione "Excluir grupo de recursos".
+- Abra o portal do Azure em https://portal.azure.com e selecione o grupo de recursos que contém o recurso que você criou.
+- Selecione o recurso e selecione Excluir e depois Sim para confirmar. O recurso é então excluído.
 
 Lembre-se de que a exclusão de recursos é irreversível e pode resultar na perda permanente de dados. Certifique-se de realizar backups, se necessário.
